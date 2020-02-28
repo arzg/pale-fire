@@ -9,6 +9,54 @@
 		"sideBarTitle.foreground": "#bbbbbb",
 		"rust_analyzer.inlayHint": "#7F9F7F"
 	},
+	"tokenStylingRules": {
+		"enum": "#ff0000",
+		"enumMember": {
+			"foreground": "#ff0000",
+		},
+	},
+	"stylingRules": {
+		"enum": "#00ff00",
+		"enumMember": {
+			"foreground": "#00ff00",
+		},
+	},
+	"editor.tokenStylingRules": {
+		"enum": "#ff0000",
+		"enumMember": {
+			"foreground": "#ff0000",
+		},
+	},
+	"editor.stylingRules": {
+		"enum": "#00ff00",
+		"enumMember": {
+			"foreground": "#00ff00",
+		},
+	},
+	"customTokenStylingRules": {
+		"enum": "#ff0000",
+		"enumMember": {
+			"foreground": "#ff0000",
+		},
+	},
+	"customStylingRules": {
+		"enum": "#00ff00",
+		"enumMember": {
+			"foreground": "#00ff00",
+		},
+	},
+	"editor.customTokenStylingRules": {
+		"enum": "#ff0000",
+		"enumMember": {
+			"foreground": "#ff0000",
+		},
+	},
+	"editor.customStylingRules": {
+		"enum": "#00ff00",
+		"enumMember": {
+			"foreground": "#00ff00",
+		},
+	},
 	"tokenColors": [
 		{
 			"name": "Field",
